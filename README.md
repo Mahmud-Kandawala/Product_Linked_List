@@ -21,9 +21,7 @@ class Node:
          self.ref = None
 ```
 
-## Picture
-
-Example:
+## Example Picture
 
 <img src = "prod.png">
 
