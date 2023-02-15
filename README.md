@@ -27,4 +27,4 @@ The code was developed using Python.
 
 ## Testing 
 
-The test for this project is in `product.py`. The test will run automatically whenever you hit the "run the program".
+The test for this project is in `product.py`. The test will run automatically when you hit the "Run" button.
