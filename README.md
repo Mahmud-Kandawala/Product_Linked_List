@@ -21,6 +21,13 @@ class Node:
          self.ref = None
 ```
 
+## Picture
+
+Example:
+
+<img src = "prod.png">
+
+
 ## Development
 
 The code was developed using Python.
